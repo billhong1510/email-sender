@@ -1,0 +1,35 @@
+body {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+.p{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.upper-input {
+    text-align: center;
+}
+input[type=text] {
+    background-color:beige;
+}
+input[type=email] {
+    background-color:beige;
+}
+.lower-input {
+    padding-left: 60px;
+    text-align: center;
+}
+textarea{
+    background-color: beige;
+}
+input[type=submit] {
+    background-color:beige;
+}
+.footer {
+    text-align: center
+}
